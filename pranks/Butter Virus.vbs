@@ -1,0 +1,6 @@
+x=MsgBox("You've been hacked!",48,"Haha!")
+x=MsgBox("Preparing virus",4144,"WARNING!")
+x=MsgBox("Do you want the virus to activate?",4132,"VIRUS ACTIVATION")
+x=MsgBox("Did you really think that would work?",4132,"HOW DUMB ARE YOU?")
+x=MsgBox("Virus activating...",4144,"YOUR DOOM DRAWS NEAR!!!")
+x=MsgBox("Just joking!",4144,"YOU'VE BEEN PRANKED!!!")
